@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    background-color: lightgray;
+    font-weight:bold;
+    color:#005677;
+    
+}
+
+p.espacio_en_blanco{
+  height: 100px;
+  background-color: white;
+  color: white;
+  font-weight:bold
+}
+
+h2 {
+  text-align: center;
+  background-color: lightgray;
+  color:#005677;
+  font-weight:bold;
+  }
+
+h3 {
+  text-align:center;
+  font-weight:bold;
+  background-color: #005677;
+  color:white;
+}
+
+p span {font-weight: bold;}
+
+
+.negrita-cursiva {
+  font-weight: bold;
+  font-style:italic;
+}
